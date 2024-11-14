@@ -1,3 +1,9 @@
+# Navigation World Models (CVPR 2025)
+
+## Table of contents
+#### Baselines and ablations 
+#### Out of distribution examples
+#### Limitations
 
 ## Baselines and ablations 
 
