@@ -1,5 +1,5 @@
 
-## Baselines and ablations
+## Baselines and ablations 
 
 ## Out of distribution examples
 ![ood_2](https://github.com/user-attachments/assets/5116275e-b256-4ee5-9563-5b25431bd473)
