@@ -1,6 +1,6 @@
 # Navigation World Models (CVPR 2025)
 
-<a name="baselines"></a>
+<a name="known"></a>
 ## Baselines and ablations 
 https://github.com/user-attachments/assets/abf5777f-9479-40cf-a3da-ed812fff7e5c
 
