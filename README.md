@@ -13,5 +13,6 @@ https://github.com/user-attachments/assets/0bfb883d-c86e-4754-aaef-cfe53d994915
 
 <a name="limitations"></a>
 ## Limitations
+Slow collapse into training examples
 ![limitations](https://github.com/user-attachments/assets/12bc5731-29a2-4d18-a69b-b6f4e92afe6f)
 
