@@ -2,7 +2,8 @@
 
 
 ## Baselines and ablations 
-
+https://github.com/user-attachments/assets/abf5777f-9479-40cf-a3da-ed812fff7e5c
+https://github.com/user-attachments/assets/0bfb883d-c86e-4754-aaef-cfe53d994915
 
 ## Out of distribution examples
 ![ood_2](https://github.com/user-attachments/assets/5116275e-b256-4ee5-9563-5b25431bd473)
