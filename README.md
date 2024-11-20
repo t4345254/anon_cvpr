@@ -6,7 +6,6 @@ https://github.com/user-attachments/assets/abf5777f-9479-40cf-a3da-ed812fff7e5c
 
 https://github.com/user-attachments/assets/0bfb883d-c86e-4754-aaef-cfe53d994915
 
-https://github.com/user-attachments/assets/6e018bc8-defb-424b-a6f0-4a7ff5cf3b03
 
 <a name="planning"></a>
 ## Planning (TODO)
@@ -15,6 +14,8 @@ https://github.com/user-attachments/assets/6e018bc8-defb-424b-a6f0-4a7ff5cf3b03
 
 <a name="unknown"></a>
 ## Out of distribution examples
+https://github.com/user-attachments/assets/6e018bc8-defb-424b-a6f0-4a7ff5cf3b03
+
 ![ood_2](https://github.com/user-attachments/assets/5116275e-b256-4ee5-9563-5b25431bd473)
 ![ood_1](https://github.com/user-attachments/assets/990c9b9b-1d37-44f8-86a9-98b73df06b3d)
 
